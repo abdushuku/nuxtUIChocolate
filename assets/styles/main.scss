@@ -1,0 +1,36 @@
+@import url(fonts.scss);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1136px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+body{
+    font-family: "Montserrat", sans-serif;
+    background: #FAFAFA;
+}
+
+:root {
+	--chorniy: #111;
+	--temno-fioletoviy: #1e1823;
+	--oranzheviy: #fd9222;
+	--biliy: #fafafa;
+    --font-family: "Montserrat", sans-serif;
+}
+
+.u-carousel{
+    overflow-x: visible !important;
+}
