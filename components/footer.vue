@@ -17,8 +17,8 @@
             </p>
           </div>
           <div class="footer-wrap-right-second">
-            <img src="/images/footerinstagram.png" alt="" />
-            <img src="/images/footertwitter.png" alt="" />
+            <img src="/images/footerinstagram.png" alt="Instagram">
+            <img src="/images/footertwitter.png" alt="Twitter" />
           </div>
         </div>
       </div>
